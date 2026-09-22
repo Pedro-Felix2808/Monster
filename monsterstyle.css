@@ -150,7 +150,7 @@ article{
         align-content: center;
         align-items: center;
         justify-content: space-evenly;
-        gap: 250px;
+        gap: 300px;
         position: relative;
     }
 
@@ -174,13 +174,13 @@ article{
 
     .fundesk{
         display:block;
-        width: 600px;
+        width: 650px;
         height: 680px;
         position: absolute;
         z-index: 0;
         left: 50%;
-        top: 50%;
-        transform: translate(-50%, -50%);
+        top: 45%;
+        transform: translate(-60%, -50%);
 }     
 
     .lata{
@@ -199,7 +199,7 @@ article{
     }
 
     .sinais{
-        width: 60%;
+        width: 45%;
     }
 
     .texto{
